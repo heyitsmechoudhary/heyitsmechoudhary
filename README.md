@@ -1,79 +1,82 @@
-### Hi there 👋
+### Hi there! 👋
 
-![Header](https://user-images.githubusercontent.com/67880025/160327271-895f07dd-421d-4ebf-a66d-5e7ad44d2488.png)
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEjyBBCqUOwuQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWy_shuGsAc-/0/1742464797472?e=1748476800&v=beta&t=rhI0bag6tvhCQODmAo2U6Ji9byZIbSJn4CawbCJbllM" alt="Header" width="100%"/>
 
-## About Me
+## 🚀 About Me
 
-Hi! I'm Rahul Choudhary, an experienced Junior Software Developer specializing in web applications. I enjoy building and fixing computer programs to help people do things more easily. I know how to talk to computers using special languages like PHP, C, Python, and Swift. Here are some highlights about me:
+I'm **Rahul Choudhary**, a Software Developer and Director at **IIIION SMART TECH PRIVATE LIMITED**. I specialize in web and mobile app development, automation, and AI-driven solutions, focusing on building scalable and user-friendly digital products.
 
-- **Current Role:** Junior Software Developer at Sagacious IP
-- **Previous Role:** Salesforce Developer Trainee at Cybersolve
-- **Education:** B.Tech in Computer Science and Engineering from Dr. A. P. J. Abdul Kalam Technical University
-- **Certifications:** Generative AI from Microsoft and LinkedIn
-- **Career Objectives:** Seeking a role with competitive pay, remote work flexibility, or full relocation and visa sponsorship
-
-### Skills
-
-- **Primary Skills:** PHP, MySQL, AJAX, JavaScript
-- **Basic Knowledge:** Node.js, Python, Swift, C, Salesforce
-
-### Projects
-
-Here are some of the key projects I have worked on:
-
-#### 1. HR Module
-- **Description:** Automated manual tasks for HR processes.
-- **Tools Used:** PHP, MySQL, AJAX
-
-
-#### 2. AI Module
-- **Description:** Created reports specific to particular patents using AI.
-- **Tools Used:** PHP, MySQL, AJAX
-
-
-### Professional Experience
-
-#### Sagacious IP, Gurugram
-- **Role:** Junior Software Developer
-- **Duration:** March 2023 - Present
-- **Contributions:**
-  - Collaborated on web applications for IP services, boosting user satisfaction by 20%.
-  - Implemented performance best practices, reducing page load times by 30%.
-  - Built an ESS module for employees, an accounts module for managing invoices, and a client module for viewing feedback and connecting with all SPOCs.
-
-#### Cybersolve, Hyderabad
-- **Role:** Salesforce Developer Trainee
-- **Duration:** February 2022 - February 2023
-- **Contributions:**
-  - Acquired Salesforce admin/development skills.
-  - Improved soft skills and learned to deal with real-time problems.
-
-### Connect with Me
-
-<p align="right">
-  <a href="mailto:heyitsmechoudhary@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7F7F7"></a>
-  <a href="https://www.linkedin.com/in/rahul-choudhary-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7F7F7"></a>
-  <a href="https://github.com/heyitsmechoudhary" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F7F7F7"></a>
-  <a href="https://www.instagram.com/whoisrahulchoudhary/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F7F7F7"></a>
-</p>
+🎯 **Current Role:** Director at IIIION Smart Tech Pvt. Ltd.  
+💼 **Previous Role:** Junior Software Developer at Sagacious IP  
+🎓 **Education:** B.Tech in Computer Science and Engineering  
+📜 **Certifications:** Generative AI (Microsoft & LinkedIn)  
+🚀 **Career Goals:** SaaS development, remote work, and digital transformation  
+🌐 **Company Website:** [iiiion.com](https://www.iiiion.com)
 
 ---
 
-### GitHub Stats
+## 🛠️ Skills
+
+🔹 **Programming:** PHP, Swift, JavaScript, MySQL  
+🔹 **Web Technologies:** AJAX, WordPress, API Integration  
+🔹 **Mobile Development:** iOS (Swift, UIKit, Xcode)  
+🔹 **Database Management:** MySQL, Realm  
+🔹 **Cloud & CRM:** Salesforce (Admin & Development)  
+🔹 **SEO & Analytics:** WordPress SEO, Yoast SEO, Google Analytics  
+🔹 **Version Control:** Git, GitHub  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Custom Invoice Generation Tool
+📌 **Description:** Automated invoice creation for businesses, improving efficiency.  
+⚙ **Tech Stack:** PHP, MySQL, AJAX  
+
+### 🔹 AI-Powered Patent Report Generator
+📌 **Description:** AI-driven reports increased visualization accuracy by 25%.  
+⚙ **Tech Stack:** PHP, MySQL, AJAX  
+
+### 🔹 HR Self-Service Module
+📌 **Description:** Reduced administrative workload by 30% with automation.  
+⚙ **Tech Stack:** PHP, MySQL, AJAX  
+
+---
+
+## 💼 Experience
+
+### **IIIION SMART TECH PRIVATE LIMITED** _(Sep 2024 - Present)_
+🚀 Founded a digital solutions company specializing in web development, e-commerce, and SEO.  
+🚀 Built SaaS automation tools for business operations.  
+🚀 Led full-cycle product development from concept to launch.  
+
+### **Sagacious IP** _(Mar 2023 - Sep 2024)_
+✅ Developed and optimized web applications for enhanced system performance.  
+✅ Created AI-driven patent analysis tools, improving accuracy by 25%.  
+✅ Built self-service HR modules, cutting manual workload by 30%.  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="#"><img alt="Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heyitsmechoudhary&count_private=true&include_all_commits=true&theme=algolia&show_icons=true&title_color=05FFFF&bg_color=0D1117&hide_border=true&icon_color=05FFFF" height="200"/></a>
-  <a href="#"><img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyitsmechoudhary&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/></a>
+  <a href="#"><img alt="Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heyitsmechoudhary&count_private=true&include_all_commits=true&theme=yellow-green&show_icons=true&title_color=FFD700&bg_color=0D1117&hide_border=true&icon_color=FFD700" height="200"/></a>
+  <a href="#"><img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyitsmechoudhary&show_icons=true&langs_count=10&locale=en&layout=compact&theme=yellow-green&bg_color=0D1117&hide_border=true&title_color=FFD700" height="200"/></a>
 </p>
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
-  <a href="#"><img alt="Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heyitsmechoudhary&theme=react-dark&bg_color=0D1117&color=05FFFF&line=ffffff&point=05FFFF&area=true&hide_border=true"/></a>
+  <a href="mailto:heyitsmechoudhary@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rahul-choudhary-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/heyitsmechoudhary" target="_blank"><img src="https://img.shields.io/badge/-GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/whoisrahulchoudhary/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-### Let's Collaborate
+## 🤝 Let's Collaborate
 
-I'm always open to collaborating on projects and innovative ideas. Feel free to reach out to me via [email](mailto:heyitsmechoudhary@gmail.com).
-
----
+💡 Have an idea? Want to work together? Reach out via [email](mailto:rahulchoudhary@iiiion.com)!
